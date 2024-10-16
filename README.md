@@ -7,6 +7,9 @@ Modernize Free Next.js 14 Admin Template with Material Ui + Typescript
   <img src="https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png" />
 
 
+bump
+
+
 
 # Installation 👨🏻‍💻
 
